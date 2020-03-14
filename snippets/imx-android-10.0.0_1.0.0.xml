@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <include name="aosp-android-10.0.0_1.0.0.xml"/>
-
   <remote  name="android-imx"
            fetch="https://source.codeaurora.org/external/imx/aosp/"
            review="" />
